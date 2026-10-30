@@ -1,0 +1,6 @@
+supplier_id,supplier_name,supplier_location,lead_time_days
+1,Supplier 01,Hyderabad,5
+2,Supplier 02,Mumbai,12
+3,Supplier 03,Pune,17
+4,Supplier 04,Chennai,11
+5,Supplier 05,Bengaluru,14
