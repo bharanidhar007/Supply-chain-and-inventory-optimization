@@ -1,6 +1,6 @@
 # Supply Chain & Inventory Optimization
 
-End-to-end portfolio starter using MySQL 8+, Python (Pandas) and Power BI.
+End-to-end portfolio project using MySQL 8+, Python (Pandas) and Power BI.
 
 **Dataset note:** `data/raw/` contains synthetic demonstration CSVs generated for this project. Replace them with a real dataset before presenting findings as real-world results.
 
